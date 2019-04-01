@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  ASimpleRayTracer.cpp
+d:\developer\c++dev\asimpleraytracer\asimpleraytracer\asimpleraytracer.cpp(41): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  hitable_list.cpp
+d:\developer\c++dev\asimpleraytracer\asimpleraytracer\hitable_list.cpp(12): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  sphere.cpp
+  正在生成代码
+  All 199 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  ASimpleRayTracer.vcxproj -> D:\Developer\C++Dev\ASimpleRayTracer\Release\ASimpleRayTracer.exe

@@ -1,0 +1,5 @@
+﻿  ASimpleRayTracer.cpp
+d:\developer\c++dev\asimpleraytracer\asimpleraytracer\asimpleraytracer.cpp(22): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\developer\c++dev\asimpleraytracer\asimpleraytracer\asimpleraytracer.cpp(39): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\developer\c++dev\asimpleraytracer\asimpleraytracer\asimpleraytracer.cpp(47): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  ASimpleRayTracer.vcxproj -> D:\Developer\C++Dev\ASimpleRayTracer\Debug\ASimpleRayTracer.exe
