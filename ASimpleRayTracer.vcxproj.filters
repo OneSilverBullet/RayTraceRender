@@ -15,12 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="pch.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="vec3.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
     <ClInclude Include="ray.h">
       <Filter>头文件</Filter>
     </ClInclude>
@@ -30,24 +24,24 @@
     <ClInclude Include="sphere.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="hitable_list.h">
+    <ClInclude Include="camera.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="camera.h">
+    <ClInclude Include="HitableList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MathLib.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="pch.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="ASimpleRayTracer.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="sphere.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="hitable_list.cpp">
+    <ClCompile Include="HitableList.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
